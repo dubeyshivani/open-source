@@ -1,2 +1,2 @@
 # open-source
-just another repository
+just another repositor
